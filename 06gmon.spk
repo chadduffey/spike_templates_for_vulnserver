@@ -1,0 +1,4 @@
+printf("GMON 06gmon.spk:");
+s_readline();
+s_string("GMON ");
+s_string_variable("COMMAND");

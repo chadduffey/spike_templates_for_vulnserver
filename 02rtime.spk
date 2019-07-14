@@ -1,0 +1,4 @@
+printf("RTIME 02rtime.spk:");
+s_readline();
+s_string("RTIME ");
+s_string_variable("COMMAND");

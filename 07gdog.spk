@@ -1,0 +1,4 @@
+printf("GDOG 07gdog.spk:");
+s_readline();
+s_string("GDOG ");
+s_string_variable("COMMAND");

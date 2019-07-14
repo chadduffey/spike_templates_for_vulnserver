@@ -1,0 +1,4 @@
+printf("KSTAN 12kstan.spk:");
+s_readline();
+s_string("KSTAN ");
+s_string_variable("COMMAND");

@@ -1,0 +1,4 @@
+printf("HTER 10hter.spk:");
+s_readline();
+s_string("HTER ");
+s_string_variable("COMMAND");

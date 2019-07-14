@@ -1,0 +1,4 @@
+printf("LTER 11lter.spk:");
+s_readline();
+s_string("LTER ");
+s_string_variable("COMMAND");

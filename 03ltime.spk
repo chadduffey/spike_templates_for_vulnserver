@@ -1,0 +1,4 @@
+printf("LTIME 03ltime.spk:");
+s_readline();
+s_string("LTIME ");
+s_string_variable("COMMAND");

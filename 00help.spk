@@ -1,0 +1,4 @@
+printf("HELP 00help.spk:");
+s_readline();
+s_string("HELP ");
+s_string_variable("COMMAND");

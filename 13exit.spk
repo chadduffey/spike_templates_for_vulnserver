@@ -1,0 +1,4 @@
+printf("EXIT 13exit.spk:");
+s_readline();
+s_string("EXIT ");
+s_string_variable("COMMAND");

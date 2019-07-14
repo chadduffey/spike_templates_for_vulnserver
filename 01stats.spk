@@ -1,0 +1,4 @@
+printf("STATS 01stats.spk:");
+s_readline();
+s_string("STATS ");
+s_string_variable("COMMAND");
